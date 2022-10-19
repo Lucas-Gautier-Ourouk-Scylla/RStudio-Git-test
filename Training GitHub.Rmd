@@ -7,3 +7,4 @@ plot(cars)    # plot speed against distance
 library(psych)
 describe(cars)
 
+installed.packages("report")
